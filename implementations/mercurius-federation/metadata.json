@@ -1,0 +1,20 @@
+{
+  "fullName": "Mercurius (@mercuriusjs/federation)",
+  "language": "JavaScript / TypeScript",
+  "documentation": "https://mercurius.dev/#/",
+  "type": "SDL first",
+  "repository": {
+    "name": "mercurius-federation",
+    "owner": "mercurius-js",
+    "link": "https://github.com/mercurius-js/mercurius-federation"
+  },
+  "coreLibrary": {
+    "name": "GraphQL.js",
+    "link": "https://www.npmjs.com/package/graphql"
+  },
+  "federationLibrary": {
+    "name": "@mercuriusjs/federation",
+    "maintainer": "mercurius-js",
+    "link": "https://www.npmjs.com/package/@mercuriusjs/federation"
+  }
+}

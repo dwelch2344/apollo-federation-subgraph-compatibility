@@ -25,6 +25,7 @@ on:
       - "Hosted Subgraph Test"
       - "Lighthouse Test"
       - "Mercurius Test"
+      - "Mercurius Federation Test"
       - "Neo4j GraphQL Library Test"
       - "NestJS (Code First) Test"
       - "NestJS (SDL First) Test"

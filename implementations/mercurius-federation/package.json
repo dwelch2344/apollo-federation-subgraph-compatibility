@@ -1,0 +1,12 @@
+{
+  "name": "mercurius-federation-implementation",
+  "description": "Apollo Federation subgraph compatibility implementation for @mercuriusjs/federation",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@mercuriusjs/federation": "https://codeload.github.com/dwelch2344/mercurius-federation/tar.gz/feat/fed2-link",
+    "fastify": "^5.6.2",
+    "graphql": "^16.12.0",
+    "mercurius": "^16.6.0"
+  }
+}
